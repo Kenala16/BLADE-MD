@@ -15,7 +15,7 @@ global.devs = '994402550124'
 global.website = 'https://github.com/Bladeh4x/BLADE-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3f3ae4aace2d012c11509.jpg'
 module.exports = {
-  sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
+  sessionName: process.env.SESSION_ID || "BLADE-MD;;;SkinnyGrownup",      //Put Your Session Id Here
   author:  process.env.PACK_AUTHER ||  'KEKETSO BOT',
   packname:  process.env.PACK_NAME || 'KENDRICK',
   
@@ -37,7 +37,7 @@ module.exports = {
   BRANCH: 'main', 
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
   autobio:  process.env.AUTO_BIO === undefined ? true : process.env.AUTO_BIO,
-  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʙʟᴀᴅᴇ-²²¹-ᴍᴅ•* ",   //*『sᴜʙsᴄʀɪʙᴇ • ʙʟᴀᴅᴇ ᴛᴇᴄʜ』*\n youtube.com/@blade444"),	
+  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴇᴋᴇᴛsᴏ ʙᴏᴛ•* ",   //*『sᴜʙsᴄʀɪʙᴇ • ᴋᴇɴᴅʀɪᴄᴋ』*\n youtube.com/@blade444"),	
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
@@ -46,7 +46,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'GOJO',
+  LANG: process.env.THEME|| 'KENDY',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
